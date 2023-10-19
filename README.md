@@ -2,6 +2,8 @@
 
 This script is designed to work around an API endpoint limitation that allows querying of locations based on coordinates but returns only a maximum of 50 locations closest to the given input, regardless of how many are actually there. The objective of the script is to ensure comprehensive retrieval of all locations within a given mapped polygon, in this case representing the area of the continental US.
 
+The code is in an html file saved from Juypter Notebooks.
+
 How It Works
 Initial Point Generation: Start by generating evenly distributed points across the mapped polygon.
 
