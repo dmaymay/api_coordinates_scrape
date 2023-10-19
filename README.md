@@ -16,4 +16,4 @@ Increasing Resolution: For these remaining sub-polygons, increase the resolution
 Iterate: Continue the process iteratively, querying the API for each new point, constructing new sub-polygons, and increasing the resolution until there are no more sub-polygons left to query.
 
 Notes
-The code is primarily a proof of concept and was developed over a short period. It might not be the most efficient or neatly organized but serves its purpose for this specific project.
+The code was for one-time use and was developed over a short period. It might not be the most efficient or neatly organized but serves its purpose for this specific project.
