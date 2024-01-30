@@ -19,3 +19,5 @@ Iterate: Continue the process iteratively, querying the API for each new point, 
 
 Notes
 The code was for one-time use and was developed over a short period. It might not be the most efficient or neatly organized but serves its purpose for this specific project.
+
+The map images and geom are not visible on the github repo, download the html or go (here)[https://htmlpreview.github.io/?https://github.com/dmaymay/api_coordinates_scrape/blob/main/api_coordinates_00.html] to preview 
