@@ -6,7 +6,7 @@ The code is in an html file saved from Juypter Notebooks.
  
 How It Works
 Initial Point Generation: Start by generating evenly distributed points across the mapped polygon.
-
+ 
 API Query: For each point, query the API to retrieve up to 50 locations.
 
 Determining the Maximum Distance: With the retrieved locations, determine the distance to the furthest location. This gives an understanding of the reach of our current query point.
